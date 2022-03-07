@@ -1,6 +1,18 @@
 let arr = ["Aaryan", "Prasad", "Aditya", "Harshavardhan", 120, true];
         //  0          1         2         3               4    5
 
+
+let obj = {
+    name: "Aaryan",
+    profession: "Trainer",
+    gender: "Male"
+};
+
+// JSON - javascript object notation (Key-Value pairs)
+
+console.log(obj.name);
+console.log(obj.gender);
+
 // console.log(arr[3]);
 // console.log(arr[4]);
 // console.log(arr[5]);
